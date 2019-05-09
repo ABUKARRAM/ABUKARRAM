@@ -1,4 +1,4 @@
-token=NTc2MTExMDkxNTIwNzY1OTYw.XNRweA.wewPZDa39xZfFi8nVIm05GgBrkE
+token=NTc2MTExMDkxNTIwNzY1OTYw.XNR1fQ.AoepykYnCATg5eczXQD8C-mZ1vE
 owner=565623778902540289
 prefix=a
 game= ahelp
